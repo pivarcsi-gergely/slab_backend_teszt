@@ -1,0 +1,19 @@
+{
+    "name": "gergely/slab_backend_teszt",
+    "require": {
+        "illuminate/database": "^8.73",
+        "slim/slim": "^4.9",
+        "slim/psr7": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gergely\\SlabBackendTeszt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pivarcsi.gergely",
+            "email": "gergely.pivarcsi@gmail.com"
+        }
+    ]
+}
